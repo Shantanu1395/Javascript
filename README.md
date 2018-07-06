@@ -1,2 +1,2 @@
 # Javascript
-Contains snippets related to Web Development stuff
+Contains snippets related to Web Development & Games/Simulations made in JS
