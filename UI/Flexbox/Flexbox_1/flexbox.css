@@ -1,0 +1,33 @@
+@media(min-width:768px){
+
+.container{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    padding: 10px;
+    /*align-items: flex-end;*/
+    /*align-items: center;*/
+    /*width: 50%;*/
+
+}
+
+}
+
+.box-1{
+    border: 1px solid black;
+    flex: 2;
+    order:2;
+}
+
+.box-2{
+    border: 1px solid black;
+    flex: 1;
+    order:1;
+}
+
+.box-3{
+    border: 1px solid black;
+    flex: 1; 
+    order:3;    
+}
