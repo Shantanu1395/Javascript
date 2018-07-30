@@ -7,12 +7,10 @@ const Temp = () => {
   return (
   //<div>   Problem
   //[       Solution 1
-  //<Fragment> Solution 2
-  <>        
+  <Fragment> Solution 2        
     <div key="asdf">Hi</div>
     <div key="fsa">Hello</div>
-  </>  
-  //</Fragment>  
+  </Fragment>  
   //]  
   //</div>
   )
